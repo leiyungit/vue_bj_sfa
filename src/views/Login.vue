@@ -117,7 +117,7 @@ export default {
       }
       //console.log('没有错误')
       // 弹出等待的遮罩层，防止二次点击
-      Indicator.open("正在登录...");
+      //Indicator.open("正在登录...");
       //发送ajax请求, axios
       services.login({
           CNO: this.cm_code,

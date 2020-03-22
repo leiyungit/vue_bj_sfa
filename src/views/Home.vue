@@ -73,8 +73,24 @@ export default {
     },
     getDayOfMonth() {
       let t = new Date();
-      return parseInt((t.getDate() / 30) * 100);
+      let day=t.getDate();
+      t.setMonth(t.getMonth()+1);
+      t.setDate(1);
+      t.setDate(t.getDate()-1)
+      //console.log(`${day} , ${t.getDate()}`);
+      return parseInt((day / t.getDate()) * 100);
     }
+  },
+  methods:{
+    // getCurrMonthDay(date){
+    //   let t = new Date(date);
+    //   let day=t.getDate();
+    //   t.setMonth(t.getMonth()+1);
+    //   t.setDate(1);
+    //   t.setDate(t.getDate()-1);
+    //   console.log(`${day} , ${t.getDate()}`);
+    //   return parseInt((day / t.getDate()) * 100);
+    // }
   }
 };
 </script>
