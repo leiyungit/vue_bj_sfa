@@ -1,0 +1,93 @@
+{
+  "id": "1704511",
+  "name": "vue_bj_sfa",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "356483",
+      "name": "消息",
+      "font_class": "xiaoxi",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "554402",
+      "name": "云端更新同步",
+      "font_class": "iconset0349",
+      "unicode": "e6f8",
+      "unicode_decimal": 59128
+    },
+    {
+      "icon_id": "1203178",
+      "name": "店铺svg",
+      "font_class": "gouwuchedianpusvg",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "1727429",
+      "name": "209电话-线性圆框",
+      "font_class": "dianhua-xianxingyuankuang",
+      "unicode": "e8bc",
+      "unicode_decimal": 59580
+    },
+    {
+      "icon_id": "1727438",
+      "name": "212喇叭-线性",
+      "font_class": "laba-xianxing",
+      "unicode": "e8c0",
+      "unicode_decimal": 59584
+    },
+    {
+      "icon_id": "2678664",
+      "name": "资料库",
+      "font_class": "ziliaoku",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "3032835",
+      "name": "店铺添加",
+      "font_class": "dianputianjia",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "5878213",
+      "name": "订单",
+      "font_class": "dingdan",
+      "unicode": "e75f",
+      "unicode_decimal": 59231
+    },
+    {
+      "icon_id": "5603721",
+      "name": "back",
+      "font_class": "back",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "4766293",
+      "name": "user",
+      "font_class": "user",
+      "unicode": "e7ae",
+      "unicode_decimal": 59310
+    },
+    {
+      "icon_id": "4766253",
+      "name": "check-square",
+      "font_class": "check-square",
+      "unicode": "e7a8",
+      "unicode_decimal": 59304
+    },
+    {
+      "icon_id": "4766265",
+      "name": "border",
+      "font_class": "border",
+      "unicode": "e7a9",
+      "unicode_decimal": 59305
+    }
+  ]
+}

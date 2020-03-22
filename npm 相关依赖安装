@@ -1,0 +1,16 @@
+npm install -g yarn --registry=https://registry.npm.taobao.org
+
+1、veevalidate
+    yarn add vee-validate@"<3.0.0" -s
+    npm install vee-validate@"<3.0.0" --save
+    // 官网查询，如下，需要指定版本号，不然直接安装3.0以上，无法引入项目
+    http://vee-validate.logaretm.com/v2/guide/getting-started.html#usage
+2、mint-ui
+    yarn add mint-ui -s
+    yarn add babel-plugin-component -D
+    http://mint-ui.github.io/#!/zh-cn
+    .babelrc配置报错解决：
+    https://blog.csdn.net/weixin_39602178/article/details/83828385
+3、yarn add axios -S
+
+4、yarn add echarts

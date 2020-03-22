@@ -1,0 +1,10 @@
+[
+    {"menuName":"公司通告","iconImg":"icon-laba-xianxing", "url":"/notice"},
+    {"menuName":"进店拜访","iconImg":"icon-gouwuchedianpusvg", "url":"/visitshop"},
+    {"menuName":"电话订单","iconImg":"icon-dianhua-xianxingyuankuang", "url":"/phoneorder"},
+    {"menuName":"订单状态","iconImg":"icon-dingdan", "url":"/orders"},
+    {"menuName":"培训资料","iconImg":"icon-ziliaoku", "url":"/training"},
+    {"menuName":"消息中心","iconImg":"icon-xiaoxi", "url":"/message"},
+    {"menuName":"新增门店","iconImg":"icon-dianputianjia", "url":"/addedshop"},
+    {"menuName":"同步数据","iconImg":"icon-iconset0349", "url":"/asyncdata"}
+]
