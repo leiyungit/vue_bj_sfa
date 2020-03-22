@@ -100,7 +100,6 @@ export default {
   display: flex;
   flex-direction: column;
   background-color: #fff;
-  border-top: 1px solid #ccc;
   .main-nav {
     flex: 1;
     padding: 0 px2rem(30);
@@ -108,6 +107,7 @@ export default {
     flex-flow: row wrap;
     align-content: stretch;
     align-items: stretch;
+    border-top: 1px solid #ccc;
     .nav-cell {
       border-bottom: 1px solid #ccc;
       border-right: 1px solid #ccc;
