@@ -130,7 +130,7 @@ export default {
           // 登录成功
           // 记住用户登录信息
           if (res.data.code == 1) {
-            Toast("登录成功");
+            //Toast("登录成功");
             localStorage.setItem(
               "Login_data",
               JSON.stringify({
